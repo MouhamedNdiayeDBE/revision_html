@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(blue,black,green);
+    color: orange;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+input {
+    padding: 5px;
+}
+
+form{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 7px;
+    border: 4px solid orange;
+    
+}
